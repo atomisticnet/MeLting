@@ -22,3 +22,22 @@ The presented work is applicable to binary materials only but simple engineering
 If you make use of this code, please cite the MeLting reference publication
 
 [1] V. Gharakhanyan, L. J. Wirth, J. A. Garrido Torres, E. Eisenberg, T. Wang, D. R. Trinkle, S. Chatterjee, and A. Urban, *arxiv* (2024), https://arxiv.org/pdf/2403.03092
+
+## Installation
+
+Installation with `pip`:
+
+```
+pip install --user .
+```
+
+Or in editable (developer) mode:
+
+```
+pip install --user -e .
+```
+
+## Usage
+
+See the [tutorials](./tutorials) subdirectory for Jupyter notebooks that demonstrate the usage of the package.
+
