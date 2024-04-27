@@ -11,12 +11,6 @@ Common use cases for the tools
 * Melting temperature prediction of binary ionic materials using a direct supervised learning approach;
 * Melting temperature prediction of binary ionic materials using a combination of supervised and unsupervised learning approaches.
 
-## Usage
-
-Data files include melting temperature values, Materials Project identifiers (mp-id's) of the selected structures and all materials features used. Compound features are obtained directly from the Materials Project, when available, or through our own DFT calculations.
-
-The presented work is applicable to binary materials only but simple engineering should lead these models to be applied to more complex (and simpler) compositions as well.
-
 ## References
 
 If you make use of this code, please cite the MeLting reference publication
@@ -39,5 +33,9 @@ pip install --user -e .
 
 ## Usage
 
-See the [tutorials](./tutorials) subdirectory for Jupyter notebooks that demonstrate the usage of the package.
+See the [tutorials](./tutorials) subdirectory for Jupyter notebooks that demonstrate the usage of the package. 
+
+Data files include melting temperature values, Materials Project identifiers (mp-id's) of the selected structures and all materials features used. Compound features are obtained directly from the Materials Project, when available, or through our own DFT calculations.
+
+The presented work is applicable to binary materials only but simple engineering should lead these models to be applied to more complex (and simpler) compositions as well.
 
