@@ -5,11 +5,12 @@ Machine-learning models for melting-temperature prediction
 <img width="450" src="./melting_figure.svg" />
 </p>
     
-Common use cases for the tools
+Common use cases for the tools:
 
 * Materials feature construction;
-* Melting temperature prediction of binary ionic materials using a direct supervised learning approach;
-* Melting temperature prediction of binary ionic materials using a combination of supervised and unsupervised learning approaches.
+* Melting temperature prediction of binary ionic materials using:
+    * direct supervised learning approach, and
+    * combination of supervised and unsupervised learning approaches.
 
 ## References
 
