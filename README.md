@@ -16,7 +16,7 @@ Common use cases for the tools:
 
 If you make use of this code, please cite the MeLting reference publication
 
-[1] V. Gharakhanyan, L. J. Wirth, J. A. Garrido Torres, E. Eisenberg, T. Wang, D. R. Trinkle, S. Chatterjee, and A. Urban, *arxiv* (2024), https://arxiv.org/pdf/2403.03092
+Vahe Gharakhanyan, Luke J. Wirth, Jose A. Garrido Torres, Ethan Eisenberg, Ting Wang, Dallas R. Trinkle, Snigdhansu Chatterjee, Alexander Urban; Discovering melting temperature prediction models of inorganic solids by combining supervised and unsupervised learning. J. Chem. Phys. 28 May 2024; 160 (20): 204112. https://doi.org/10.1063/5.0207033
 
 ## Installation
 
